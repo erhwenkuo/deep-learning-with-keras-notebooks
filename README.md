@@ -13,6 +13,8 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 * [1.1: 如何使用Keras函數式API進行深度學習](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.1-keras-functional-api.ipynb)
 
 * [1.2: 從零開始構建VGG網絡來學習Keras](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.2-vgg16-from-scratch.ipynb)
+
+* [1.3: 使用預訓練的模型來分類照片中的物體](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.3-use-pretrained-model.ipynb)
 	
 
 ### 圖像辨識    
