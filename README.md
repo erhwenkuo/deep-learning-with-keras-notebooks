@@ -27,3 +27,5 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 * [2.3: 時尚服飾圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.3-fashion-mnist-recognition.ipynb)
 
 * [2.4: 人臉關鍵點辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.4-facial-keypoints-recognition.ipynb)
+
+* [2.5: Captcha驗證碼辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.5-use-keras-break-captcha.ipynb)
