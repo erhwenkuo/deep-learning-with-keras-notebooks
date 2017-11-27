@@ -19,7 +19,8 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [1.3: 使用預訓練的模型來分類照片中的物體](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.3-use-pretrained-model.ipynb)
 	
-
+* [1.4: 使用圖像增強來訓練小數據集](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.4-small-datasets-image-augmentation.ipynb)
+	
 ### 圖像辨識    
 * [2.0: Julia(Chars74K) 字母圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.0-first-steps-with-julia.ipynb)
 
