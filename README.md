@@ -22,6 +22,8 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 * [1.4: 使用圖像增強來訓練小數據集](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.4-small-datasets-image-augmentation.ipynb)
 
 * [1.5: 使用預先訓練的卷積網絡模型](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.5-use-pretrained-model-2.ipynb)
+
+* [1.6: 卷積網絡模型學習到什麼的可視化](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.6-visualizing-what-convnets-learn.ipynb)
 	
 ### 圖像辨識    
 * [2.0: Julia(Chars74K) 字母圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.0-first-steps-with-julia.ipynb)
