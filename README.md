@@ -1,7 +1,7 @@
 # deep-learning-with-keras-notebooks
 
 這個github的repository主要是個人在學習Keras的一些記錄及練習。希望在學習過程中發現到一些好的資訊與範例也可以對想要學習使用
-Keras來解決問題的同好，或是對深度學習有興趣的在學學生可以有一些方便理解與上手範例來練練手。
+Keras來解決問題的同好，或是對深度學習有興趣的在學學生可以有一些方便理解與上手範例來練練手。如果你/妳也有相關的範例想要一同分享給更多的人, 也歡迎issue PR來給我。
 
 這些notebooks是使用Python 3.6與Keras 2.1.1版本跑在一台配置Nivida 1080Ti的Windows 10的機台所產生的結果。對於想要進行Deeplearning的朋友們, 真心建議要有GPU啊~!
 
@@ -24,7 +24,9 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 * [1.5: 使用預先訓練的卷積網絡模型](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.5-use-pretrained-model-2.ipynb)
 
 * [1.6: 卷積網絡模型學習到什麼的可視化](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.6-visualizing-what-convnets-learn.ipynb)
-	
+
+* [1.7: 構建自動編碼器(Autoencoder)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.7-autoencoder.ipynb)
+
 ### 圖像辨識    
 * [2.0: Julia(Chars74K) 字母圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.0-first-steps-with-julia.ipynb)
 
