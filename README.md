@@ -7,10 +7,10 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 ## 內容
 
-### 圖像資料集
+### 0.圖像資料集
 * [0.0: COCO API解說與簡單範例](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/0.0-coco-dataset-api.ipynb)
 
-### Keras API範例
+### 1.Keras API範例
 * [1.0: 使用圖像增強來進行深度學習](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.0-image-augmentation.ipynb)
 
 * [1.1: 如何使用Keras函數式API進行深度學習](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.1-keras-functional-api.ipynb)
@@ -27,7 +27,7 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [1.7: 構建自動編碼器(Autoencoder)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.7-autoencoder.ipynb)
 
-### 圖像辨識 (Image Classification) 
+### 2.圖像辨識 (Image Classification) 
 * [2.0: Julia(Chars74K) 字母圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.0-first-steps-with-julia.ipynb)
 
 * [2.1: 交通標誌圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.1-traffic-signs-recognition.ipynb)
@@ -44,8 +44,9 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [2.7: Mnist手寫圖像辨識(CNN)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.7-mnist-recognition-cnn.ipynb)
 
-### 圖像偵測 (Object Recognition)
+### 3.物體偵測 (Object Recognition)
+* [3.0: YOLO物體偵測演算法概念與介紹](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/3.0-yolo-algorithm-introduction.ipynb)
 
-### 物體分割 (Object Segmentation)
+### 4.物體分割 (Object Segmentation)
 
-### 關鍵點偵測 (Keypoint Detection)
+### 5.關鍵點偵測 (Keypoint Detection)
