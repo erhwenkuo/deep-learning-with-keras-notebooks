@@ -27,7 +27,7 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [1.7: 構建自動編碼器(Autoencoder)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.7-autoencoder.ipynb)
 
-### 圖像辨識    
+### 圖像辨識 (Image Classification) 
 * [2.0: Julia(Chars74K) 字母圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.0-first-steps-with-julia.ipynb)
 
 * [2.1: 交通標誌圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.1-traffic-signs-recognition.ipynb)
@@ -39,3 +39,13 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 * [2.4: 人臉關鍵點辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.4-facial-keypoints-recognition.ipynb)
 
 * [2.5: Captcha驗證碼辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.5-use-keras-break-captcha.ipynb)
+
+* [2.6: Mnist手寫圖像辨識(MLP)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.6-mnist-recognition-mlp.ipynb)
+
+* [2.7: Mnist手寫圖像辨識(CNN)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.7-mnist-recognition-cnn.ipynb)
+
+### 圖像偵測 (Object Recognition)
+
+### 物體分割 (Object Segmentation)
+
+### 關鍵點偵測 (Keypoint Detection)
