@@ -9,6 +9,7 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 ### 0.圖像資料集
 * [0.0: COCO API解說與簡單範例](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/0.0-coco-dataset-api.ipynb)
+* [0.1: 土炮自製撲克牌圖像資料集](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/0.1-poker-cards-dataset.ipynb)
 
 ### 1.Keras API範例
 * [1.0: 使用圖像增強來進行深度學習](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.0-image-augmentation.ipynb)
