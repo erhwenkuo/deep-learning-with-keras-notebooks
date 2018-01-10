@@ -28,6 +28,9 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [1.7: 構建自動編碼器(Autoencoder)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.7-autoencoder.ipynb)
 
+* [1.8: 序列到序列(Seq-to-Seq)學習介詔](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.8-seq2seq-introduction.ipynb)
+
+
 ### 2.圖像辨識 (Image Classification) 
 * [2.0: Julia(Chars74K) 字母圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.0-first-steps-with-julia.ipynb)
 
@@ -53,3 +56,7 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 ### 4.物體分割 (Object Segmentation)
 
 ### 5.關鍵點偵測 (Keypoint Detection)
+
+### 6.圖像標題 (Image Caption)
+
+### 7.自然語言處理 (Natural Language Processing)
