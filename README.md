@@ -57,6 +57,14 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [3.3: 浣熊 (Racoon)偵測-YOLOv2模型的使用](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/3.3-yolov2-racoon_detection_inaction.ipynb)
 
+* [3.4: 袋鼠 (Kangaroo)偵測-YOLOv2模型訓練與調整](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/3.4-yolov2-train-kangaroo-dataset.ipynb)
+
+* [3.5: 雙手 (Hands)偵測-YOLOv2模型訓練與調整](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/3.5-yolov2-train-hands-dataset.ipynb)
+
+* [3.6: 辛普森卡通圖像角色 (Simpson)偵測-YOLOv2模型訓練與調整](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/3.6-yolov2-train-simpson-dataset.ipynb)
+
+* [3.7: MS COCO圖像偵測-YOLOv2模型訓練與調整](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/3.7-yolov2-train-coco-dataset.ipynb)
+
 ### 4.物體分割 (Object Segmentation)
 
 ### 5.關鍵點偵測 (Keypoint Detection)
