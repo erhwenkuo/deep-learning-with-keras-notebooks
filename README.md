@@ -76,4 +76,6 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [7.1: 人臉偵測 - MTCNN (Multi-task Cascaded Convolutional Networks)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/7.1-mtcnn-face-detection.ipynb)
 
+* [7.2: 人臉辨識 - 臉部偵測、對齊 & 裁剪](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/7.2-face-detect-align-and-crop.ipynb)
+
 ### 8.自然語言處理 (Natural Language Processing)
