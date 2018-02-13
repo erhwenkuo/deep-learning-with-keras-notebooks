@@ -87,4 +87,6 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [7.5: 臉部關鍵點偵測 (dlib)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/7.5-face-landmarks-detection.ipynb)
 
+* [7.6: 頭部姿態(Head pose)估計 (dlib)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/7.6-head-pose-estimation.ipynb)
+
 ### 8.自然語言處理 (Natural Language Processing)
