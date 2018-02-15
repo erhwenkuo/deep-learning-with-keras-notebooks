@@ -33,6 +33,7 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [1.8: 序列到序列(Seq-to-Seq)學習介詔](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.8-seq2seq-introduction.ipynb)
 
+* [1.9: One-hot編碼工具程序介詔](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.9-onehot-encoding-introduction.ipynb)
 
 ### 2.圖像辨識 (Image Classification) 
 * [2.0: Julia(Chars74K) 字母圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.0-first-steps-with-julia.ipynb)
