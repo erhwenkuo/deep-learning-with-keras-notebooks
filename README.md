@@ -91,3 +91,4 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 * [7.6: 頭部姿態(Head pose)估計 (dlib)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/7.6-head-pose-estimation.ipynb)
 
 ### 8.自然語言處理 (Natural Language Processing)
+* [8.0: 單詞嵌入(word embeddings)介詔](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/8.0-using-word-embeddings.ipynb)
