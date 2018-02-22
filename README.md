@@ -92,3 +92,19 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 ### 8.自然語言處理 (Natural Language Processing)
 * [8.0: 單詞嵌入(word embeddings)介詔](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/8.0-using-word-embeddings.ipynb)
+
+* [8.1: 使用結巴(jieba)進行中文斷詞](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/8.1-jieba-word-tokenizer.ipynb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
