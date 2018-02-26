@@ -97,6 +97,8 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [8.2: Word2vec詞嵌入(word embeddings)的基本概念](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/8.2-word2vec-concept-introduction.ipynb)
 
+* [8.3: 使用結巴(jieba)進行歌詞分析](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/8.3-jieba-lyrics-analysis.ipynb)
+
 
 
 
