@@ -99,7 +99,7 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [8.3: 使用結巴(jieba)進行歌詞分析](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/8.3-jieba-lyrics-analysis.ipynb)
 
-
+* [8.4: 使用gensim訓練中文詞向量 (word2vec)](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/8.4-word2vec-with-gensim.ipynb)
 
 
 
