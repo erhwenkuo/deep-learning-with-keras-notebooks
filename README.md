@@ -5,6 +5,8 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 這些notebooks主要是使用Python 3.6與Keras 2.1.1版本跑在一台配置Nivida 1080Ti的Windows 10的機台所產生的結果, 但有些部份會參雜一些Tensorflow與其它的函式庫的介紹。 對於想要進行Deeplearning的朋友們, 真心建議要有GPU啊~!
 
+如果你/妳覺得這個repo對學習deep-learning有幫助, 除了給它一個star以外也請大家不吝嗇去推廣給更多的人。
+
 ## 內容
 
 ### 0.圖像資料集/工具介詔
@@ -37,6 +39,7 @@ Keras來解決問題的同好，或是對深度學習有興趣的在學學生可
 
 * [1.a: 循環神經網絡(RNN)介詔](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.a-rnn-introduction.ipynb)
 
+* [1.b: LSTM的返回序列和返回狀態之間的區別](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/1.b-lstm-return-sequences-states.ipynb)
 
 ### 2.圖像辨識 (Image Classification) 
 * [2.0: Julia(Chars74K) 字母圖像辨識](http://nbviewer.jupyter.org/github/erhwenkuo/deep-learning-with-keras-notebooks/blob/master/2.0-first-steps-with-julia.ipynb)
